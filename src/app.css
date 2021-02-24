@@ -1,0 +1,23 @@
+.App-title {
+    font-size: 2em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.Header > h3 {
+    color: black;
+}
+
+.ant-layout {
+    height: 100vh;
+    color: teal;
+}
+
+*:focus {
+    outline: none;
+}
+
+
+
